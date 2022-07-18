@@ -1,0 +1,12 @@
+{
+    "sharepoint_URL":"https://...sharepoint.com/",
+    "sharepoint_Path":"/.../.../...xlsx",
+    "tempxlsx_path":"C:\\...\\....xlsx",
+    "database": {
+        "user": "...",
+        "password": "...",
+        "host": "...",
+        "port": "...",
+        "database": "..."
+    }
+}
